@@ -1,3 +1,3 @@
-# Read me git example 
+# Readme git example 
 
-My first readme file
+My first readme file !
